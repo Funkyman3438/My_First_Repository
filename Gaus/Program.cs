@@ -160,7 +160,7 @@ namespace ConsoleApp9
             int row;
             double d = 0;
             double s = 0;
-            Console.Write("Введите размерность матрицы (обязательно, чтобы значение было числом!): ");
+            Console.Write("Введите размерность матрицы (обязательно, чтобы значение было число12312312312312м!!!): ");
             row = Convert.ToInt32(Console.ReadLine());
             double[,] A = new double[row, row];
             double[,] a = new double[row, row];
